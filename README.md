@@ -14,7 +14,7 @@ The above experiences do not seem to be related, but they truly connect each oth
   - Using machine learning to solve real-world problems. 
   - Building and deploying the end to end machine learning web application.
 - **Chemical Engineer**
-  - Prototyping the products of the thermoplastic composite materials.
+  - Prototyped the products of the thermoplastic composite materials.
   - Worked with the solvent recovery system which maximum capacity is 400 m<sup>3</sup>/day.
 - **Reserch Assistant**
   - Dedicated to Microbial Metabolism, Genetic Engineering and Bacterial Fermentation.
